@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# ejecutar
-./main
+
 
 # Caso 1: Ingreso de productos y precios válidos
 # Simulamos la entrada de datos con echo y redireccionamos la salida a un archivo
